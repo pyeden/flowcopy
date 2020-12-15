@@ -1,0 +1,10 @@
+MANIFEST.in
+README
+pcap.c
+pcap_ex.c
+pcap_ex.h
+setup.py
+pypcap.egg-info/PKG-INFO
+pypcap.egg-info/SOURCES.txt
+pypcap.egg-info/dependency_links.txt
+pypcap.egg-info/top_level.txt

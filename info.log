@@ -1,0 +1,6 @@
+Fri, 11 Dec 2020 21:49:47 INFO Start capture port: 80 network card: eth0 copy ip: 127.0.0.1
+Fri, 11 Dec 2020 22:35:51 INFO Start capture port: 6000 network card: eth33 copy ip: 192.168.1.6
+Fri, 11 Dec 2020 23:51:32 INFO Start capture port: 6000 network card: eth33 copy ip: 127.0.0.1
+Fri, 11 Dec 2020 23:52:14 INFO Start capture port: 6000 network card: eth0 copy ip: 127.0.0.1
+Fri, 11 Dec 2020 23:52:32 INFO Start capture port: 6000 network card: eth33 copy ip: 127.0.0.1
+Sat, 12 Dec 2020 00:00:31 INFO Start capture port: 80 network card: eth33 copy ip: 127.0.0.1

@@ -1,0 +1,2 @@
+Start capture port: 80 network card: eth33 copy ip: 127.0.0.1
+Capture network eth33:port 80:copy_ip 127.0.0.1: copy_port 65533:exception: [Errno 19] No such device
