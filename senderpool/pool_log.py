@@ -5,8 +5,9 @@ Created on 2015
 '''
 # -*- coding: utf-8 -*-
 import logging.config
+import os
 
-logging.config.fileConfig("/root/Meteor/senderpool/logger.conf")
+logging.config.fileConfig(os.path.split(os.path.realpath(__file__))[0] + "/logger.conf")
 console_log = logging.getLogger("console")
 info_log = logging.getLogger("info")
 error_log = logging.getLogger("error")
